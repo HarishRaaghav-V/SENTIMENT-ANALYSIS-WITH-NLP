@@ -69,3 +69,7 @@ Chatbots & Virtual Assistants: Enhances AI-driven customer support by detecting 
 
 Conclusion
 Sentiment analysis with NLP transforms raw text into valuable insights, enabling businesses and researchers to understand emotions behind words. With advancements in deep learning and AI, sentiment analysis is evolving, making predictions more accurate and context-aware. The ability to analyze human emotions computationally empowers industries to make informed decisions, improve customer relations, and predict trends effectively.
+
+#OUTPUT 
+
+![Image](https://github.com/user-attachments/assets/4bee98b1-876a-4117-82f0-c930343dd5a6)
